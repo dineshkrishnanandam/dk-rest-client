@@ -31,3 +31,4 @@ gradlew
 gradlew.bat
 
 target/**
+target/classes/META-INF/maven/com.example/consuming-dk-rest-service/pom.properties
