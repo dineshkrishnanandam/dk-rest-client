@@ -5,6 +5,7 @@ public class Teacher {
 	private Integer id;
 	private String name;
 	private String age;
+	private Integer qld;
 
 	public Integer getId() {
 		return id;
